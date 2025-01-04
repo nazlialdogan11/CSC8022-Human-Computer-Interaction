@@ -4,6 +4,10 @@
 
 This report aimed to provide the documentation of two consisting parts: Part I aimed to underline the importance of HCI on contemporary computing by additionally providing the history of HCI and Part II aimed to conduct and report the usability evaluation of the Forest App, using the Cooperative Evaluation method.
 
+>___Feedback:___
+> `"A very good piece of work. Evidence of good background reading beyond the materials suggested. Sustained argument throughout."`
+> -*Prof. Dave Kirk, Module Leader*
+
 ## ⚙️ How to Install 
 
 Clone the project to your computer.
@@ -16,7 +20,7 @@ Open the files.
 
 # ℹ About the Human-Computer Interaction Report
 
-The Human-Computer Interaction Report aims to provide the 
+The Human-Computer Interaction (HCI) Report serves to summarize key insights gained throughout the module. It also includes a usability evaluation, complemented by a detailed report on the testing process and its findings.
 
 # 🔖 Achievements
 
@@ -35,6 +39,16 @@ The Human-Computer Interaction Report aims to provide the
 - Suggested and synthesised design recommendations based on the evaluation data.
 
 # 📄 Program Output
+
+
+
+# ❇️ Future Improvements
+
+***There were no remarks made by the instructor for future improvements.***
+
+# Keywords
+
+- User-Centred Design Basics and Framing Concepts - Evolving Interactive Technology - Understanding Users – Cognition; Groups and Teams; The Turn to Experience - Fieldwork for Design (Requirements Gathering) - GUI & Interface Design Basics - Style Guides (and Mobile Interfaces) - Usability Evaluation
 
 # ⛓️ References
 
