@@ -48,8 +48,6 @@ Part I - Delivered a brief history of HCI and its relevance to contemporary comp
 
 Part II - Brought a usability report using the cooperative evaluation method(also known as Think Aloud Protocol). This report consisted of an executive summary, product details, user test details and evaluation results with incident logs, rated in terms of severity. The application chosen to be evaluated was Forest App by SEEKRTECH CO., LTD.
 
-![image](https://github.com/user-attachments/assets/43892c80-7afd-48a3-8dea-345c7b7cddd5)
-
 >___An Excerpt from Part II on Evaluation Results:___
 > `"Incident Log [1]
 Incident Description: 
