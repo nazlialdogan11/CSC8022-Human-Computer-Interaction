@@ -4,8 +4,8 @@
 
 This report aimed to provide the documentation of two consisting parts: Part I aimed to underline the importance of HCI on contemporary computing by additionally providing the history of HCI and Part II aimed to conduct and report the usability evaluation of the Forest App, using the Cooperative Evaluation method.
 
->___Feedback:___
-> `"A very good piece of work. Evidence of good background reading beyond the materials suggested. Sustained argument throughout."`
+>__Feedback:__
+> _`"A very good piece of work. Evidence of good background reading beyond the materials suggested. Sustained argument throughout."`_
 > -*Prof. Dave Kirk, Module Leader*
 
 ## ⚙️ How to Install 
@@ -43,18 +43,20 @@ The Human-Computer Interaction (HCI) Report serves to summarize key insights gai
 **Part I** - Delivered a brief history of HCI and its relevance to contemporary computing by providing the definition, aim and historical development of HCI, as well as an introduction to the world of AI and Machine Learning in our living spaces, impact evaluation of such on HCI, and lastly drew attention to the potential opportunities as well as challenges of AI and Machine Learning.
 
 >**An Excerpt from Part I on Findings:**
-> `"*To conclude, in the forthcoming years, the realm of artificial intelligence (AI) and machine learning (ML) holds significant promise and accompanying challenges (Russell & Norvig, 2022). These technologies offer transformative potential across various sectors, facilitating advanced automation, customized interactions, and refined decision-making processes (Floridi & Cowls, 2019). As AI and ML become increasingly integrated into everyday life, prioritizing transparency, accountability, and inclusivity becomes imperative (Mittelstadt et al., 2016). Meanwhile, the field of Human-Computer Interaction (HCI) has evolved alongside technological advancements, fundamentally altering our interactions with computers (Brynjolfsson & McAfee, 2017). Through the integration of AI and ML, HCI has facilitated customized experiences in sectors such as healthcare and entertainment. Future advancements promise further innovation, exemplified by products like Apple Vision Pro, which offer tailored virtual environments. Challenges persist, including dispelling misconceptions and ensuring fair access. By prioritizing a user-centric approach, HCI can continue to drive progress while addressing societal concerns, remaining instrumental in shaping the future of computing for enhanced user experiences.*"`
-> -*Nazli Aldogan, A Brief History of HCI & Its Relevance to Contemporary Computing*
+> _`"To conclude, in the forthcoming years, the realm of artificial intelligence (AI) and machine learning (ML) holds significant promise and accompanying challenges (Russell & Norvig, 2022). These technologies offer transformative potential across various sectors, facilitating advanced automation, customized interactions, and refined decision-making processes (Floridi & Cowls, 2019). As AI and ML become increasingly integrated into everyday life, prioritizing transparency, accountability, and inclusivity becomes imperative (Mittelstadt et al., 2016). Meanwhile, the field of Human-Computer Interaction (HCI) has evolved alongside technological advancements, fundamentally altering our interactions with computers (Brynjolfsson & McAfee, 2017). Through the integration of AI and ML, HCI has facilitated customized experiences in sectors such as healthcare and entertainment. Future advancements promise further innovation, exemplified by products like Apple Vision Pro, which offer tailored virtual environments. Challenges persist, including dispelling misconceptions and ensuring fair access. By prioritizing a user-centric approach, HCI can continue to drive progress while addressing societal concerns, remaining instrumental in shaping the future of computing for enhanced user experiences."`_
+> -***A Brief History of HCI & Its Relevance to Contemporary Computing, Nazli Aldogan***
 
 **Part II** - Brought a usability report using the cooperative evaluation method(also known as Think Aloud Protocol). This report consisted of an executive summary, product details, user test details and evaluation results with incident logs, rated in terms of severity. The application chosen to be evaluated was Forest App by SEEKRTECH CO., LTD.
 
 >**An Excerpt from Part II on Evaluation Results:**
-> `"*Incident Log [1]
+> _`"Incident Log [1]
 Incident Description: 
 While performing Task 2, two of the users struggled to find where the modes are. They searched through the Menu. The icons leading to modes are too small and therefore users have stated they either didn’t notice them, or didn’t think the modes would be in there. One of them said that he thought those were toggle buttons, to switch something on and off, and that it wouldn’t lead to a pop-up, before tapping them. The users stated they got really frustrated.
-Severity Rating: [4]*"`
+Severity Rating: [4]"`_
+> -***Cooperative Evaluation - Usability Report, Nazli Aldogan***
 
 ![image](https://github.com/user-attachments/assets/e444ebd4-10d0-465b-9489-bb110a977166)
+_Image Excerpted from Incident Log [1]_
 
 # ❇️ Future Improvements
 
