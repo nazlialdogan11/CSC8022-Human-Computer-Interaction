@@ -48,7 +48,8 @@ The Human-Computer Interaction (HCI) Report serves to summarize key insights gai
 
 # Keywords
 
-- User-Centred Design Basics and Framing Concepts - Evolving Interactive Technology - Understanding Users – Cognition; Groups and Teams; The Turn to Experience - Fieldwork for Design (Requirements Gathering) - GUI & Interface Design Basics - Style Guides (and Mobile Interfaces) - Usability Evaluation
+• User-Centred Design Basics and Framing Concepts • Evolving Interactive Technology • Understanding Users – Cognition; Groups and Teams; The Turn to Experience
+• Fieldwork for Design (Requirements Gathering) • GUI & Interface Design Basics • Style Guides (and Mobile Interfaces) • Usability Evaluation
 
 # ⛓️ References
 
