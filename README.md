@@ -40,13 +40,13 @@ The Human-Computer Interaction (HCI) Report serves to summarize key insights gai
 
 # 📄 Program Output
 
-Part I - Delivered a brief history of HCI and its relevance to contemporary computing by providing the definition, aim and historical development of HCI, as well as an introduction to the world of AI and Machine Learning in our living spaces, impact evaluation of such on HCI, and lastly drew attention to the potential opportunities as well as challenges of AI and Machine Learning.
+***Part I*** - Delivered a brief history of HCI and its relevance to contemporary computing by providing the definition, aim and historical development of HCI, as well as an introduction to the world of AI and Machine Learning in our living spaces, impact evaluation of such on HCI, and lastly drew attention to the potential opportunities as well as challenges of AI and Machine Learning.
 
 >___An Excerpt from Part I on Findings:___
 > `"To conclude, in the forthcoming years, the realm of artificial intelligence (AI) and machine learning (ML) holds significant promise and accompanying challenges (Russell & Norvig, 2022). These technologies offer transformative potential across various sectors, facilitating advanced automation, customized interactions, and refined decision-making processes (Floridi & Cowls, 2019). As AI and ML become increasingly integrated into everyday life, prioritizing transparency, accountability, and inclusivity becomes imperative (Mittelstadt et al., 2016). Meanwhile, the field of Human-Computer Interaction (HCI) has evolved alongside technological advancements, fundamentally altering our interactions with computers (Brynjolfsson & McAfee, 2017). Through the integration of AI and ML, HCI has facilitated customized experiences in sectors such as healthcare and entertainment. Future advancements promise further innovation, exemplified by products like Apple Vision Pro, which offer tailored virtual environments. Challenges persist, including dispelling misconceptions and ensuring fair access. By prioritizing a user-centric approach, HCI can continue to drive progress while addressing societal concerns, remaining instrumental in shaping the future of computing for enhanced user experiences."`
 > -*Nazli Aldogan, A Brief History of HCI & Its Relevance to Contemporary Computing*
 
-Part II - Brought a usability report using the cooperative evaluation method(also known as Think Aloud Protocol). This report consisted of an executive summary, product details, user test details and evaluation results with incident logs, rated in terms of severity. The application chosen to be evaluated was Forest App by SEEKRTECH CO., LTD.
+***Part II*** - Brought a usability report using the cooperative evaluation method(also known as Think Aloud Protocol). This report consisted of an executive summary, product details, user test details and evaluation results with incident logs, rated in terms of severity. The application chosen to be evaluated was Forest App by SEEKRTECH CO., LTD.
 
 >___An Excerpt from Part II on Evaluation Results:___
 > `"Incident Log [1]
